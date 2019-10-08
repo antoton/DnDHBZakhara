@@ -10,10 +10,9 @@ The Zakharan pantheon is known for being above any form of alignment, for anyone
 
 Other Zakharan deities
 
-* 
-Ajami \(foreign\) gods
-
-* Fharlanghn: Symbol: Dweller on the Horizon, god of Horizons, Distance, Travel, and Roads.disk with a curved line and an upturned crescent above that. 
+* Ajami \(foreign\) gods
+* Fharlanghn: Symbol: Dweller on the Horizon, god of Horizons, Distance, Travel, and Roads.disk with a curved line and an upturned crescent above that.
 * Shar: godess of loss, darkness, night, ... Symbol: black disc with a purple rim.
 
 Test for Gitbook sync
+
