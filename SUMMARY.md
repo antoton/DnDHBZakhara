@@ -6,7 +6,7 @@
 ## Introduction
 
 * [Timeline](introduction/timeline.md)
-* [Map](introduction/map.md)
+* [Maps](introduction/map.md)
 * [Known Deities](introduction/known-deities.md)
 
 ## Characters

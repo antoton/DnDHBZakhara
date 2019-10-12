@@ -1,4 +1,4 @@
-# Map
+# Maps
 
 ![Zakhara as of 1492DR](../.gitbook/assets/zakhara-3-2.png)
 
