@@ -2,8 +2,8 @@
 
 Zakharan Pantheon:
 
-* Kor: God of Wisdom
-* Hajama: God of Bravery
+* Kor: God of Wisdom. Symbol: Sunburst
+* Hajama: God of Bravery. Symbol: A featureless disc
 * ...
 
 The Zakharan pantheon is known for being above any form of alignment, for anyone may reach for a certain virtue.
@@ -11,8 +11,8 @@ The Zakharan pantheon is known for being above any form of alignment, for anyone
 Other Zakharan deities
 
 * Ajami \(foreign\) gods
-* Fharlanghn: Symbol: Dweller on the Horizon, god of Horizons, Distance, Travel, and Roads.disk with a curved line and an upturned crescent above that.
+* Fharlanghn: The patron of travelers. It was told he brought balance by incuring chaos. Symbol: disk with a curved line and an upturned crescent above that.
 * Shar: godess of loss, darkness, night, ... Symbol: black disc with a purple rim.
 
-Test for Gitbook sync
+
 
