@@ -16,6 +16,7 @@
 * [Kor](characters/kor.md)
 * [Chuma](characters/chuma.md)
 * [Thorean](characters/thorean.md)
+* [NPC's](characters/npcs.md)
 
 ## The story so far
 
