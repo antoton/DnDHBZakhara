@@ -5,7 +5,7 @@
 
 ## Introduction
 
-* [Timeline](introduction/timeline.md)
+* [Timeline and Facts](introduction/timeline.md)
 * [Maps](introduction/map.md)
 * [Known Deities](introduction/known-deities.md)
 
