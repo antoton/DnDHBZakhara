@@ -20,6 +20,7 @@ Leaders in Zakhara:
 * The **Grand** Caliph Nasir al-Assad al-Zahir, the political as well as religious leader of all Zakharans and Enlightened. Every of its denizens, including all the genie leaders in Zakhara, must answer to him. He is the 19th Grand Caliph. 
 * The Djinni leader, the **Great** Caliph Husam al-Balil ben Nafhat al-Yugayyim, the Master of the Clouds and the Son of the Breezes. He mostly resides in the Citadel of Ice and Steel in the plane of Air, but stays involved in the affairs of Zakhara.
 * Under-vizier Ghor, the great and magnificent Djinni. A rather friendly genie who oversees the Hand of the Sky, and handles most of the negotiations between the nobles, merchants and mamluks. Rumours tell of a secret forbidden affair between him and one of the mamluks.
+* The Efreet Pashah Nassirudeen Min Alnaar is the cruel and greedy lord of the Vestige of Brass. He will not hear any word of dissonance, slander or disobedience. Only words of praise will enter his ears. Despite his cruel nature, he will forgive people if the compliment him with a lot of praise, and end up striking a contract with him, of which he will of course get the better half of it. 
 
 
 
