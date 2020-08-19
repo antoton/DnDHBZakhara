@@ -8,14 +8,14 @@
 * 1482: Second Sundering: Ao, the overlord, has rewritten the Ancient Tablets, returning Toril back to a normal state. Portfolios of the gods have been restated. The Elemental Planes are restored. Planes are restored to the Great Wheel cosmology. Genies and elementals slowly return to their previous homes. Many denizens of the Vestige of Brass leave Zakhara for the City of Brass in the Plane of Fire. 
 * 1492: Start of the Zakharan Adventures.
 
-The Genie races in Zakhara: 
+### The Genie races in Zakhara: 
 
 * The air genies: the Djinni.  They embodied the chaotic force of violent storms while possessing benevolent minds. Only the noble djinn possessed the power of the wish. Djinn were wild but benevolent creatures as a whole.
 * The fire genies: the Efreeti were unpredictable creatures with fiery forms and spectacular magical powers. Efreet are cruel and self-serving. They all consider themselves to be of noble character and assume grand titles to make themselves seem impressive.
 * The earth genies: the Dao.  Dao often ran gem-mining operations in the plane of Earth or on the Material Plane. They are greedy and malicious. "A dao isn't happy unless it is the envy of other dao."
 * The water genies: the Marid. They consider themselves as the greatest of all genie-kind. They are generally quickly angered, vain and dangerous. They consider it a crime to interrupt one of their tales.
 
-Leaders in Zakhara:
+## Leaders in Zakhara:
 
 * The **Grand** Caliph Nasir al-Assad al-Zahir, the political as well as religious leader of all Zakharans and Enlightened. Every of its denizens, including all the genie leaders in Zakhara, must answer to him. He is the 19th Grand Caliph. 
 * The Djinni leader, the **Great** Caliph Husam al-Balil ben Nafhat al-Yugayyim, the Master of the Clouds and the Son of the Breezes. He mostly resides in the Citadel of Ice and Steel in the plane of Air, but stays involved in the affairs of Zakhara.
