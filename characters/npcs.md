@@ -22,6 +22,7 @@
 ## Vestige of Brass
 
 * Wishama: the kind Tiefling who runs the Magical Tattoo Parlor. She appears to have some influence within the city, and has helped the peculiars escape the dangerous clutches of the Pashah.
+* The Efreet Pashah Nassirudeen Min Alnaar is the cruel and greedy lord of the Vestige of Brass. He will not hear any word of dissonance, slander or disobedience. Only words of praise will enter his ears. Despite his cruel nature, he will forgive people if the compliment him with a lot of praise, and end up striking a contract with him, of which he will of course get the better half of it. 
 
 ## The Haunted Lands
 
