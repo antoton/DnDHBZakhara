@@ -27,7 +27,7 @@
 ## The Haunted Lands
 
 * Haroun al-Saqr, the keeper of the Golden Falcon Inn at the oasis of the Golden Falcon. She used to belong to one of the Jann of the Haunted Lands, up until the disappearance of their leader, the Amir Heidar Qan. 
-* Gandrayda: the name without a face, or many at once. It is still a mystery who she is, but her name keeps appearing when asking around for information. Luna has been approached by her, in the guise of another beautiful high-elven lady. Her name keeps appearing in references to Tibalt, and apparently had a favor with Ghor, who plucked them out of the Plane of Air. 
+* Gandrayda: the name without a face, or many at once. It is still a mystery who she is, but her name keeps appearing when asking around for information. Luna has been approached by her, in the guise of another beautiful high-elven lady. Her name keeps appearing in references to Tibalt, and apparently had a favor with Ghor, who plucked the peculiars out of the Plane of Air. 
 
 ## ???
 
