@@ -31,7 +31,7 @@
 ## ???
 
 * The Mindflayer: the elusive creature that has been a hassle in Zakhara. He managed to gain an artifact from Bryyo of unknown power. The ethoist Orana dal-Salaam fears that this artifact will fall into the hands of the followers of Shar. 
-* The shadow creature: the creature that haunts Shaya in his dreams. They have had a glimpse of it in the Shadow Realm, where a large winged shadow loomed over the group of peculiars. 
+* The shadow creature: the creature that haunts Shaya in his dreams. They have had a glimpse of it in the Shadow Realm in Bryyo, where a large winged shadow loomed over the group of peculiars. 
 
 
 
