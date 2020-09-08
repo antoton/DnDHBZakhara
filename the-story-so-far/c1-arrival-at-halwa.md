@@ -6,7 +6,9 @@ On the other side of Halwa, a beautiful High Elf arrived, by the name of Luna. S
 
 Meanwhile, a small gnome was scurrying around the underground markets of Halwa, looking for magical items. He found a drow elven trader of information, Orim Sa'ri Haimii, who told him that he might find answers to his improbable quest at the temple of Kor. 
 
-As fate would have it, all these peculiar characters convened in the Fool and the Flask, where they met eachother. The next day, they woke up to the friendly threats of Kor\(nelius\). They got ready and joined the Caravan leaving for the Temple of Kor. 
+As fate would have it, all these peculiar characters convened in the Fool and the Flask, where they met each other. The next day, they woke up to the friendly threats of Kor\(nelius\). They got ready and joined the Caravan leaving for the Temple of Kor. 
+
+
 
 
 
