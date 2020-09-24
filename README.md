@@ -12,7 +12,7 @@ An elf, longing for peace for her tribe, seeks alliances within its sandstone bu
 
 A dwarf, troubled by his past, hopes to find new life in the changing deserts.
 
-A halfling too small for this world, looks for the greatest of powers in the blazing sun.
+A gnome too small for this world, looks for the greatest of powers in the blazing sun.
 
 And a half-orc looking for answers to a dark secret.
 

@@ -8,15 +8,15 @@
 * [Timeline and Facts](introduction/timeline.md)
 * [Maps](introduction/map.md)
 * [Known Deities](introduction/known-deities.md)
+* [NPC's](introduction/npcs.md)
 
-## Characters
+## The Peculiars <a id="peculiars"></a>
 
-* [Shaya and Sirona](characters/shaya-and-sirona.md)
-* [Luna](characters/luna.md)
-* [Kor](characters/kor.md)
-* [Chuma](characters/chuma.md)
-* [Thorean](characters/thorean.md)
-* [NPC's](characters/npcs.md)
+* [Shaya and Sirona](peculiars/shaya-and-sirona.md)
+* [Luna](peculiars/luna.md)
+* [Kor](peculiars/kor.md)
+* [Chuma](peculiars/chuma.md)
+* [Thorion](peculiars/thorean.md)
 
 ## The story so far
 
