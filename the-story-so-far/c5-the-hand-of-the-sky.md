@@ -8,5 +8,5 @@ In the bottom tiers of the Hand of the Sky, they are confronted by Cassio, a fem
 
 The group returns to the upper levels and finds help from a goblin laboratorist, called Alger-Nop Kriega, who identifies the plants and its antidotes. They tell them that the plant grows near the Vestige of Brass, at the Wall of the Wailing Elephant, a mountain range to the south. The plant is known as a potent poison, popular with assassins, causing its victim to die in tears. The laboratorist creates a strong antidote, to drop into the water supply of the slums, which should counteract the effects of the plant, and vials to give to those in need. 
 
-Ghor and Cassio thank the group for their help, and are gifted a Genie's Wish. They can reimburse it any time, using the paper bird to send to the Genie Under-Vizier. They also got some camels 
+Ghor and Cassio thank the group for their help, and are gifted a Genie's Wish. They can reimburse it any time, using the paper bird to send to the Genie Under-Vizier. They also got some camels to make their way back to Halwa, in the hopes for finding more info there or at the Temple of Kor about what is going on.
 
