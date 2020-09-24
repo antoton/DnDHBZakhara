@@ -16,7 +16,7 @@
 * [Luna](peculiars/luna.md)
 * [Kor](peculiars/kor.md)
 * [Chuma](peculiars/chuma.md)
-* [Thorion](peculiars/thorean.md)
+* [Thorian](peculiars/thorean.md)
 
 ## The story so far
 

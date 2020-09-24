@@ -1,6 +1,6 @@
 # C2 The Temple of Kor
 
-The party set out for the temple of Kor at sunrise with the caravan, headed for the Temple of Kor and the bastion of Hajama. The caravan was ambushed by a pair of basilisks, and the guards got turned to stone, as well as Kor, Thorean and Shaya. The stone people were loaded onto the caravans, bar one poor guard, and rushed to the temple. 
+The party set out for the temple of Kor at sunrise with the caravan, headed for the Temple of Kor and the bastion of Hajama. The caravan was ambushed by a pair of basilisks, and the guards got turned to stone, as well as Kor, Thorian and Shaya. The stone people were loaded onto the caravans, bar one poor guard, and rushed to the temple. 
 
 At the temple, the ethoists of Kor performed a Restoration ritual, turning the poor stone suckers back to their original flesh selves.   
 Shaya and Sirona were directed to the Ruins of Bryyo after informing about shadow creatures. Kor had to look for Rhundas at the same place in order to decipher an old text written in ancient Midani, as he was the only one proficient in reading the old texts.   
