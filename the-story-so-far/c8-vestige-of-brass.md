@@ -1,3 +1,7 @@
+---
+description: Shenanigans and shenanigans and shenanigans and ...
+---
+
 # C8 Vestige of Brass
 
 After a short stay at the oasis of the Golden Falcon Inn, a quick glance of the Thri-Keen, and very dramatically plucking a flower, the group arrives at the Vestige of Brass.
