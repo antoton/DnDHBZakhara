@@ -10,5 +10,5 @@ With some help of Wishama, a tiefling with a magnificent skill in tattooing, the
 
 Wishama helps Chuma and Sirona to gain audience with the Pashah of the Vestige of Brass. With some very carefully picking of words, Sirona manages to gain freedom for her friends from the Pashah. The audience of the others with the Pashah did not go so smoothly. They are now ordered by the Pashah to clear out whatever problems there are with the Fire Newts.
 
-They find out the hiding place of the Newts, and investigate the caverns inside the Volcano-walls. 
+They find out the hiding place of the Newts, and investigate the caverns inside the volcanic walls.
 
